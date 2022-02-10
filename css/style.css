@@ -1,0 +1,51 @@
+.box{
+    width: 100%;
+    height: 50px;
+    background-color: dodgerblue;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.margin-bottom{
+    margin-bottom: 20px;
+}
+
+.box-special{
+    width: 100%;
+    height: 80px;
+    background-color: dodgerblue;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.box-special .col-2{
+    height: 50px;
+    background-color: green;
+    margin: 0.9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-special .col-8{
+    height: 50px;
+    background-color: green;
+    margin: 0.9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-special .col-6{
+    height: 50px;
+    background-color: green;
+    margin: 0.9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
